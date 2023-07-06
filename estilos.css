@@ -1,0 +1,27 @@
+body{
+    background-color: #C0C0C0;
+    text-align: center;
+}
+
+.nombre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color: #C70039
+}
+
+.lista{
+    background-color: #00FFFF;
+}
+
+.blanco{
+    background-color: #ffffff;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+}
+
+
+
