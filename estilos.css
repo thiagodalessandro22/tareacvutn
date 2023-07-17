@@ -1,26 +1,33 @@
 body{
-    background-color: #C0C0C0;
+    background: linear-gradient(to left, red, blue);
     text-align: center;
+    color: #e0bf00;
 }
 
 .nombre{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: 45px;
     text-align: center;
     color: #C70039
 }
 
 .lista{
-    background-color: #00FFFF;
+    color: #ffffff;
 }
 
-.blanco{
-    background-color: #ffffff;
+.fondo{
+    background-color: linear-gradient(to right, red, blue);
 }
 
 img{
     width: 400px;
     height: 350px;
+    border-radius: 50% 50% 38% 62% / 40% 40% 60% 60% ;
+    box-shadow: 15px -15px 0px 3px;
+}
+
+.icono{
+    margin-right: 5px;
 }
 
 
